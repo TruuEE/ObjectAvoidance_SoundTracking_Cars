@@ -1,6 +1,14 @@
 # Marco Polo Car Project
 
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/97f2c6d9-bb0e-448a-880e-b288643cb7ce" alt="image">
+</div>
+
 This repository contains the source code and instructions for the **Marco Polo Car** project, developed as part of the ECE4375 Embedded Systems course at Vanderbilt University. The project involves setting up a "Marco Polo" game using Freenove 4WD Smart Car Kits, where autonomous predator cars chase a prey car, guided by object avoidance, echolocation, and networking communication.
+
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/18becc45-9c53-4834-aa26-7670ee2b3142" alt="image">
+</div>
 
 ## Table of Contents
 
